@@ -4,4 +4,4 @@ I am 21 years old, I am a student at the Central University of Venezuela in the 
 
 I really enjoy learning about data science, it is an area that aroused my interest during the Covid-19 pandemic, my intention is to develop myself in this field with a view to playing a role that allows solving business problems through the use of data.
 
-I am now doing a specialized 10-course program on Coursera at Johns Hopkins University in R-based data science.
+I am now doing a specialized 10-course program on Coursera of Johns Hopkins University in R-based data science.
